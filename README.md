@@ -116,4 +116,3 @@ If you use OpenSTEF in your research or publications, please cite the project. R
 - **Issues:** [GitHub Issue Tracker](https://github.com/OpenSTEF/openstef/issues)
 - **Support Guide:** [How to get help](https://openstef.github.io/openstef/project/support.html)
 
-This project was submitted to a [DevPost hackathon](https://devpost.com).
