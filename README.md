@@ -115,3 +115,5 @@ If you use OpenSTEF in your research or publications, please cite the project. R
 - **Community meeting:** [OpenSTEF four-weekly community meeting](https://lf-energy.atlassian.net/wiki/spaces/OS/pages/32278358/OpenSTEF+four-weekly+community+meeting)
 - **Issues:** [GitHub Issue Tracker](https://github.com/OpenSTEF/openstef/issues)
 - **Support Guide:** [How to get help](https://openstef.github.io/openstef/project/support.html)
+
+This project was submitted to a [DevPost hackathon](https://devpost.com).
